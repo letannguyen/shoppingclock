@@ -1,0 +1,89 @@
+.admin{
+	background-image: url("/uploads/anhbia.png");
+	background-size: 100%
+}
+header a:hover{
+  color: #08dfee;
+  font-weight: bold;
+}
+
+header a{
+    color: #000000;
+    font-weight: bold;
+}
+
+footer  h4{
+  color: black;
+}
+footer .col-2 a{
+    text-decoration: none;
+    color: black;
+  }
+  .pform{
+    background-color:rgb(255, 255, 255);
+    color: black; 
+    width:40%; 
+    height:50px; 
+    position:relative; 
+    top:-70px; 
+    bottom:20px; 
+    left:55%; 
+    z-index:1;
+}
+.pform2{
+  color: rgb(255, 255, 255); 
+  width:40%; 
+  height:50px; 
+  position:relative; 
+  top:-200px; 
+  bottom:20px; 
+  left:55%; 
+  z-index:1;
+}
+.main1 {
+	background-image: url("/src/main/resources/static/images/new-season-banner-template_1361-1221.jpg");
+	background-size: 100%;
+}
+.main2 a{
+  display: block;
+  overflow: hidden; 
+  color: black;
+  font-size: 25px;font-weight: bold;
+
+}
+.main2 a:hover{ 
+  text-decoration: none; 
+  color:rgb(0, 0, 0);
+}.col-3 img:hover{
+	transform: scale(1.2);
+  transition: 0.3s;
+  box-sizing: border-box 100% 300px;
+}
+.main2 img:hover {
+  transform: scale(1.2);
+  transition: 0.5s;
+  box-sizing: border-box 100% 300px;
+}
+.main3 a:hover{ 
+  text-decoration: none; 
+  overflow: hidden; 
+  color:rgb(0, 0, 0);
+}
+.main3 a{
+  display: block;
+  overflow: hidden; 
+  color: black;
+  font-size: 20px; 
+}
+
+.card-header{
+	background-image: url("/uploads/anhbia.png");
+	color: white;
+	background-size: 100%
+}
+table a{
+	color: black;
+}
+table a:hover{
+	text-decoration: none; 
+}
